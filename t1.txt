@@ -3,3 +3,4 @@ t1.txt 2
 t1.txt 3+three
 t1.txt 4+four
 t1.txt 5
+t1.txt 6
